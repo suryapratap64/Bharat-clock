@@ -1,0 +1,22 @@
+
+.home{
+    height: 100vh;
+    background-image: url('https://www.timeanddate.com/scripts/worldclock_og.php?h1=World%20Clock&h2=Local%20Time%20Around%20the%20World');
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+
+}
+.sp{
+    margin-top: 10px;
+    font-size: 25px;
+    color: blue;
+}
+.sps{
+    color: blue;
+   
+    margin-top: 10px;
+font-weight: 500;
+
+}
