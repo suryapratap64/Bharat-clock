@@ -9,14 +9,15 @@
 
 }
 .sp{
-    margin-top: 10px;
-    font-size: 25px;
-    color: blue;
+    margin-top: 20px;
+    font-size: 30px;
+    font-weight: 100px;
+    color: rgb(91, 8, 180);
 }
 .sps{
     color: blue;
-   
-    margin-top: 10px;
-font-weight: 500;
+    margin-top: 15px;
+    font-size: 50px;
+    font-weight: 500;
 
 }
